@@ -1,0 +1,14 @@
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\bin\Debug\net6.0\Lab6_3Iter.exe
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\bin\Debug\net6.0\Lab6_3Iter.deps.json
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\bin\Debug\net6.0\Lab6_3Iter.runtimeconfig.json
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\bin\Debug\net6.0\Lab6_3Iter.dll
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\bin\Debug\net6.0\Lab6_3Iter.pdb
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.AssemblyInfoInputs.cache
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.AssemblyInfo.cs
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.csproj.CoreCompileInputs.cache
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.dll
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\refint\Lab6_3Iter.dll
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.pdb
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\Lab6_3Iter.genruntimeconfig.cache
+C:\Users\vozny\source\repos\Lab6_3Iter\Lab6_3Iter\obj\Debug\net6.0\ref\Lab6_3Iter.dll

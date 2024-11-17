@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6_4Iter", "Lab6_4Iter\Lab6_4Iter.csproj", "{9B8B8E48-6576-43D8-B584-3D4F928E3AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_4IterUnitTest", "Lab6_4IterUnitTest\Lab6_4IterUnitTest.csproj", "{27A7A5CD-DE13-4625-946F-7A2EFA03EB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8B8E48-6576-43D8-B584-3D4F928E3AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8B8E48-6576-43D8-B584-3D4F928E3AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8B8E48-6576-43D8-B584-3D4F928E3AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8B8E48-6576-43D8-B584-3D4F928E3AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A7A5CD-DE13-4625-946F-7A2EFA03EB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A7A5CD-DE13-4625-946F-7A2EFA03EB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A7A5CD-DE13-4625-946F-7A2EFA03EB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A7A5CD-DE13-4625-946F-7A2EFA03EB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA16216-54E0-41A3-BE70-AFBFA57A2FD4}
+	EndGlobalSection
+EndGlobal

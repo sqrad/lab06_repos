@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6_1Recur", "Lab6_1Recur\Lab6_1Recur.csproj", "{394A1171-B23B-40D0-A2B2-C149863049C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_1RecurUnitTest", "Lab6_1RecurUnitTest\Lab6_1RecurUnitTest.csproj", "{E37925AD-5367-4B71-80B2-3E5FCAE892CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394A1171-B23B-40D0-A2B2-C149863049C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394A1171-B23B-40D0-A2B2-C149863049C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394A1171-B23B-40D0-A2B2-C149863049C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394A1171-B23B-40D0-A2B2-C149863049C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37925AD-5367-4B71-80B2-3E5FCAE892CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37925AD-5367-4B71-80B2-3E5FCAE892CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37925AD-5367-4B71-80B2-3E5FCAE892CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37925AD-5367-4B71-80B2-3E5FCAE892CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330417B2-D85D-412D-BB8C-192E2D7C51F2}
+	EndGlobalSection
+EndGlobal

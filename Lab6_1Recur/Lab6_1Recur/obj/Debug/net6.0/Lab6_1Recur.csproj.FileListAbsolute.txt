@@ -1,0 +1,14 @@
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\bin\Debug\net6.0\Lab6_1Recur.exe
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\bin\Debug\net6.0\Lab6_1Recur.deps.json
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\bin\Debug\net6.0\Lab6_1Recur.runtimeconfig.json
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\bin\Debug\net6.0\Lab6_1Recur.dll
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\bin\Debug\net6.0\Lab6_1Recur.pdb
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.AssemblyInfoInputs.cache
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.AssemblyInfo.cs
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.csproj.CoreCompileInputs.cache
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.dll
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\refint\Lab6_1Recur.dll
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.pdb
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\Lab6_1Recur.genruntimeconfig.cache
+C:\Users\vozny\source\repos\Lab6_1Recur\Lab6_1Recur\obj\Debug\net6.0\ref\Lab6_1Recur.dll
